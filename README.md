@@ -14,3 +14,13 @@
 + 重构整个项目，让sslsocket正常工作
 + 加入服务端支持
 + 支持几种extension
+
+## HOW_TO_USE
+
+执行以下命令
+
+```shell
+ruby main.rb
+```
+
+在wireshark中抓包即可看到握手过程。
